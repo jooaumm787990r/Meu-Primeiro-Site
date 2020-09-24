@@ -1,5 +1,3 @@
-# myfirstsite
-My first public site
-Made in Brazil
-By Jooaumm
+# Meu Primeiro Site
+Linguagens utilizadas: Html, CSS
 
